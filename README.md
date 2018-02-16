@@ -1,13 +1,15 @@
 # DQE
-This code is for KDD paper "Outliers Revisited: A Data  ality Explanation"
+This code is for paper "Outliers Revisited: A Data  ality Explanation"
 ## File Structure
-* src: source code of our DQE Repair Algorithm and experiments code
+* src: source code of algorithms and experiments code
 * dataset: Dataset source files used in experiments
+
 ## Datasets
 * Letter dataset: http://sci2s.ugr.es/keel/dataset.php?cod=198
 * MAGIC dataset: https://archive.ics.uci.edu/ml/datasets/magic+gamma+telescope
 * Restaurant dataset: http://www.cs.utexas.edu/users/ml/riddle/data.html
 * GPS dataset: collected by carrying smartphones and walking around campus
+
 ## Experiments
 ### Experiment 4.1
 #### 4.1.1
